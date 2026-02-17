@@ -14,7 +14,7 @@
 ## 软件要求
 
 - 宿主系统: Ubuntu 24.04.4 LTS
-- 必要工具: bash, gcc, g++, make, binutils, wget, md5sum等
+- 必要工具: 
 
 ## 项目结构
 
